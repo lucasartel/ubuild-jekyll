@@ -1,5 +1,8 @@
 ---
 main:
+- url: "#"
+  weight: 2
+  title: teste
 - identifier: home
   url: "/"
   weight: 1
